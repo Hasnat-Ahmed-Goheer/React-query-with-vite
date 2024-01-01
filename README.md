@@ -21,7 +21,7 @@ This repository aims to provide hands-on practice and examples to demonstrate th
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/your-username/vite-react-query-practice.git`
+1. Clone the repository: `git clone https://github.com/Hasnat-Ahmed-Goheer/vite-react-query-practice.git`
 2. Navigate to the project: `cd vite-react-query-practice`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm run dev` or `yarn run dev`
